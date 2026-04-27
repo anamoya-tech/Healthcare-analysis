@@ -1,4 +1,4 @@
-🧾 Proceso de trabajo
+# 🧾 Proceso del proyecto
 
 A continuación detallo cómo he desarrollado el proyecto paso a paso, desde la definición inicial hasta la visualización final en Power BI.
 
